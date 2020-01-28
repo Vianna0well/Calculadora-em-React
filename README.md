@@ -1,4 +1,8 @@
+# Calculadora-em-React
+Um projeto iniciado em React na linguagem Javascript, bem simples mas seguindo alguns conceitos de **calculadoras avançadas**
 
+# Como iniciar o projeto
+Basta colocar o comando: **npm start** na **raiz do projeto**
 
 ## Autor
 
