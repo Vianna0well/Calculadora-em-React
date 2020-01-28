@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/41162196/73229816-ebab7a80-4159-11ea-8a27-de0d1cfeb4af.PNG" width="550">
+</p>
+
 # Calculadora-em-React
 Um projeto iniciado em React na linguagem Javascript, bem simples mas seguindo alguns conceitos de **calculadoras avançadas**
 
