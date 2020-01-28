@@ -3,12 +3,15 @@
 </p>
 
 
+
 # Calculadora-em-React
 Um projeto iniciado em React na linguagem Javascript, bem simples mas seguindo alguns conceitos de **calculadoras avançadas**.
 
 
+
 # Como iniciar
 Basta colocar o comando: **npm start** na **raiz do projeto** e depois acessar no browser **http://localhost:3000/**.
+
 
 
 ## Autor
